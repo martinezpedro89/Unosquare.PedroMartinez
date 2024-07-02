@@ -1,0 +1,6 @@
+@Unosquare.PedroMartinez.Prefilter_HostAddress = http://localhost:5265
+
+GET {{Unosquare.PedroMartinez.Prefilter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
